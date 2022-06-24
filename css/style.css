@@ -1,0 +1,32 @@
+.nav{
+    background-color:lightgray;
+}
+.navButton{
+    display:inline-block;
+    padding:center;
+    background-color:rgb(65, 64, 64);
+    height:60px;
+    width:150px;
+    text-align:center;
+}
+.content{
+    float:right;
+    width:70%;
+}
+.sideBar{
+    float:left;
+    width:29%;
+    padding-top:10px;
+    background-color:lightgray;
+}
+.coco{
+    width:70%;
+}
+.cocoContent{
+    width:50%;
+    float:left;
+    padding:5px;
+}
+.navText{
+    color:white;
+}
